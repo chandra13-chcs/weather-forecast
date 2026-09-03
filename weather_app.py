@@ -1,3 +1,4 @@
+## Weather Forecast App - fetches and displays current weather information
 """
 Weather Forecast App
 ---------------------
